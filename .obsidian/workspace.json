@@ -1,0 +1,213 @@
+{
+  "main": {
+    "id": "27c08ed7e4abc8b9",
+    "type": "split",
+    "children": [
+      {
+        "id": "4b5b60e95caa3a69",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cf253b0c3081617e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 Note Gallery/Note Gallery.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "043f97db4310c713",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "43ca51ca96e9f583",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 Notes/Science/Science One 8.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ebf1cfdb8755069f",
+    "type": "split",
+    "children": [
+      {
+        "id": "9f571123fbd4dd12",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "85a13940534fd591",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ecdb939211d208f6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5f202409ab9ab490",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7f71142b5676a428",
+    "type": "split",
+    "children": [
+      {
+        "id": "1be72330ff8a5409",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1c6d7444826059f8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a846964c579ba550",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fae591d155c9af2d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6a922a77b6b4ae93",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "043f97db4310c713",
+  "lastOpenFiles": [
+    "1 Note Gallery/Note Gallery.md",
+    "2 Notes/Science/Science One 8.md",
+    "asdasd.md",
+    "2 Notes/Other/Literature 1000.md",
+    "2 Notes/Other/Literature 999.md",
+    "2 Notes/Other/Literature 998.md",
+    "2 Notes/Other/Literature 997.md",
+    "2 Notes/Other/Literature 996.md",
+    "2 Notes/Other/Literature 995.md",
+    "2 Notes/Other/Literature 994.md",
+    "2 Notes/Other/Literature 993.md",
+    "2 Notes/Other/Literature 992.md",
+    "2 Notes/Other/Literature 991.md",
+    "2 Notes/Other/Literature 990.md",
+    "2 Notes/Other/Literature 989.md",
+    "2 Notes/Other/Literature 988.md",
+    "2 Notes/Other/Literature 987.md",
+    "2 Notes/Other/Literature 986.md",
+    "2 Notes/Other/Literature 985.md",
+    "2 Notes/Other/Literature 984.md",
+    "2 Notes/Other/Literature 983.md",
+    "2 Notes/Other/Literature 982.md",
+    "2 Notes/Other/Literature 981.md",
+    "2 Notes/Other/Literature 980.md",
+    "2 Notes/Other/Literature 979.md",
+    "2 Notes/Other/Literature 978.md",
+    "0 JavaScript/Literature.js",
+    "0 JavaScript/History.js",
+    "0 JavaScript/Apply.js",
+    "0 JavaScript/Subcat Three.js",
+    "0 JavaScript/Subcat Two.js",
+    "0 JavaScript/Subcat One.js",
+    "0 JavaScript/Science.js",
+    "2 Notes/Other",
+    "2 Notes/Science",
+    "2 Notes"
+  ]
+}

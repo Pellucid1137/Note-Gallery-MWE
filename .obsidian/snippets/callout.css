@@ -1,0 +1,41 @@
+/* credits to sailKite */
+
+:root {
+    --callout-outer-margin: 8px; 
+}
+
+.callout-content > *:first-child {
+    margin-top: var(--callout-outer-margin);
+}
+.callout-content > *:last-child {
+    margin-bottom: var(--callout-outer-margin);
+}
+
+.callout[data-callout="div"] {
+    margin: unset;
+    border: unset;
+    border-radius: unset;
+    padding: unset;
+    background: unset;
+    mix-blend-mode: normal;
+
+    & > .callout-title { display: none; }
+}
+
+.callout[data-callout-metadata*="grid"] {
+    & > .callout-content {
+        --col-gap: 10px;
+        display: grid;
+        grid-auto-flow: column;
+        grid-auto-columns: 1fr;
+        gap: var(--col-gap);
+
+        & > [data-callout-metadata*="span-2"] { grid-column-end: span 2; }
+        & > [data-callout-metadata*="span-3"] { grid-column-end: span 3; }
+        & > [data-callout-metadata*="span-4"] { grid-column-end: span 4; }
+
+        & > :is(.callout, pre) {
+            height: fit-content;
+        }
+    }
+}
